@@ -1,0 +1,1 @@
+scalac -bootclasspath /Users/hiromumasuda/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -classpath /Users/hiromumasuda/Projects/HiromuMasuda/latissimus-dorsi/target/scala-2.11/classes /Users/hiromumasuda/Projects/HiromuMasuda/latissimus-dorsi/src/main/scala/Main.scala
